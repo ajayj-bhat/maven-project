@@ -1,1 +1,1 @@
-Hello, Man!
+Hello, World! Version 2.x
